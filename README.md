@@ -27,50 +27,39 @@
 </div>
 
 ---
+
 ## ABOUT
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="58%" valign="top">
 
-### Hello, World! I'm **Somashekara G** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" alt="Wave" />
+### `> Hello, World! I'm Somashekara G` ⚡
 
-I'm a **Software Engineer** from Bengaluru, Karnataka passionate about building full-stack applications, training deep learning and ML models, turning data into insights, and ensuring software quality.
+I'm a **Software Engineer** from **Bengaluru, Karnataka** focused on full-stack engineering, deep learning & data science, analytics dashboards, and quality-driven software delivery.
 
-* 🎓 **B.E. — Computer Science & Engineering**, RV College of Engineering (`8.08 / 10.00 CGPA`)
-* 🏅 **Diploma — Mechanical Engineering**, SJ (Govt) Polytechnic (`9.47 CGPA` • **38th Rank in DCET**)
-* ☕ Building backend & full-stack apps with **Java**, **Spring Boot**, **Python**, **Flask**, **React.js**, **PostgreSQL**, and **MySQL**
-* 🧪 Hands-on **Manual Testing** across **SDLC**, **STLC**, **Agile / Scrum**, test case design, **BVA**, equivalence partitioning, and **Jira**
-* 🧠 Developing **AI & Deep Learning** solutions with **PyTorch**, **ResNet-18**, **OpenCV**, and **Scikit-learn**
-* 📊 Creating analytics & dashboards using **Power BI**, **DAX**, **Power Query**, **Pandas**, **NumPy**, and **Excel**
-* 🚀 Always experimenting, learning, and shipping clean code.
+* 🎓 **B.E. in Computer Science & Engineering** — RV College of Engineering (`8.08 / 10.00 CGPA`)
+* 🏅 **Diploma in Mechanical Engineering** — SJ (Govt) Polytechnic (`9.47 CGPA` • **38th Rank in DCET**)
+* ⚙️ **Full-Stack & Backend:** **Java**, **Spring Boot**, **Python**, **Flask**, **React.js**, **HTML5**, **CSS3**, **JavaScript**, **PostgreSQL**, **MySQL**, and **REST / SMTP APIs**
+* 🧠 **AI & Data Science:** **PyTorch**, **ResNet-18**, **OpenCV**, **Scikit-learn**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**[cite: 1, 5]
+* 📊 **Business Intelligence:** **Power BI**, **DAX**, **Power Query**, **ETL**, **EDA**, and **Microsoft Excel**
+* 🧪 **Manual QA & Testing:** **SDLC**, **STLC**, **Agile / Scrum**, test case design, **BVA**, equivalence partitioning, defect tracking, and **Jira**
 
     </td>
-    <td width="38%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260" alt="Animated Developer Coding" />
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=java,spring,python,react,pytorch,postgres" width="240" alt="Core Stack" />
-    </td>
-  </tr>
-</table>
+    <td width="42%" valign="middle" align="center">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-JAVA%20%26%20SPRING%20BOOT-E11D48?style=for-the-badge&labelColor=1E293B&logo=openjdk&logoColor=white" alt="01 Java & Spring Boot" />
-<img src="https://img.shields.io/badge/02-FULL%20STACK%20%26%20APIS-0284C7?style=for-the-badge&labelColor=1E293B&logo=react&logoColor=white" alt="02 Full Stack & APIs" />
-<br />
-<img src="https://img.shields.io/badge/03-AI%2C%20ML%20%26%20POWER%20BI-7C3AED?style=for-the-badge&labelColor=1E293B&logo=pytorch&logoColor=white" alt="03 AI, ML & Power BI" />
-<img src="https://img.shields.io/badge/04-MANUAL%20TESTING%20%26%20QA-059669?style=for-the-badge&labelColor=1E293B&logo=jira&logoColor=white" alt="04 Manual Testing & QA" />
-
-<br /><br />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1200&color=34D399&center=true&vCenter=true&width=720&height=34&lines=%F0%9F%92%A1+Mindset%3A+Stay+curious%2C+build+with+discipline+%26+test+every+edge+case.;%F0%9F%9A%80+Turning+complex+problems+into+simple%2C+reliable+solutions." alt="Animated Mindset" />
-</a>
-
-</div>
-
----
+```text
+  ┌─────────────────────────────────────────┐
+  │  ┌───────────────────────────────────┐  │
+  │  │  ┌─┐  Hello, World!              │  │
+  │  │  │ │  > java / spring / react  │  │
+  │  │  └─┘  > pytorch / sql / qa      │  │
+  │  └───────────────────────────────────┘  │
+  │  ═════════════════════════════════════  │
+  │  🎧 FOCUS   │ 01 Full-Stack & APIs    │
+  │  🖱️ ENGINE  │ 02 AI, ML & Power BI    │
+  │  🧪 QUALITY │ 03 Manual QA & Testing  │
+  └─────────────────────────────────────────┘
 
 ## EXPERIENCE
 
