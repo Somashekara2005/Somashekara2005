@@ -41,7 +41,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ### Hey, I'm Somashekara 👋
 
@@ -62,15 +62,11 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 
 </td>
 
-<td width="40%" valign="middle">
+<td width="42%" valign="middle">
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,postgres,git&perline=3" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Somashekara2005&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&hide_title=true&include_all_commits=true" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer working on a laptop" />
 
 </div>
 
