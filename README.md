@@ -27,7 +27,6 @@
 </div>
 
 ---
-
 ## ABOUT
 
 <table>
@@ -48,9 +47,9 @@ I'm a **Software Engineer** from Bengaluru, Karnataka passionate about building 
 
     </td>
     <td width="38%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="Developer Coding Animation" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=java,spring,python,react,pytorch,postgres" alt="Core Stack" />
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260" alt="Animated Developer Coding" />
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=java,spring,python,react,pytorch,postgres" width="240" alt="Core Stack" />
     </td>
   </tr>
 </table>
