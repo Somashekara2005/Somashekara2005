@@ -1,178 +1,214 @@
 <div align="center">
 
-# Hi, I'm Somashekara G 👋
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=850&color=38BDF8&center=true&vCenter=true&width=460&height=42&lines=Software+Engineer;Java+%26+Spring+Boot+Developer;Full+Stack+Developer;AI+%26+Data+Enthusiast" alt="Typing SVG" />
-</a>
-
-**Computer Science Engineering Graduate | RV College of Engineering**
-
-📍 Bengaluru, Karnataka, India
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=180&section=header&text=Somashekara%20G&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Software%20Engineer%20%7C%20Java%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=70&descSize=17" width="100%" />
 
 <br>
 
 <a href="mailto:somashekarag83@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/somashekara-g-566050323/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/somashekara-g-566050323/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Somashekara2005">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-38BDF8?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+</div>
 
-[About](#about) • [Experience](#experience) • [Projects](#projects) • [Skills](#technical-skills) • [Achievements](#achievements) • [Certifications](#certifications)
+---
+
+## `01` — About Me
+
+> Computer Science graduate interested in building scalable applications, intelligent systems, and practical software solutions.
+
+🎓 **B.E. Computer Science & Engineering** — RV College of Engineering  
+📍 Bengaluru, India  
+💡 Focused on Software Engineering, Java Development, AI, and Data
+
+I enjoy transforming ideas into applications, exploring new technologies, and solving problems through code. My experience spans software development, machine learning, data analysis, and software testing.
+
+---
+
+## `02` — Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+
+### Backend & Frontend
+
+<img src="https://skillicons.dev/icons?i=spring,flask,react,html,css" />
+
+### Database & Data
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux" />
 
 </div>
 
 ---
 
-## About
+## `03` — Featured Projects
 
-Hello! I'm **Somashekara G**, a Computer Science Engineering graduate passionate about software development, problem-solving, machine learning, and building practical technology solutions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy developing applications, exploring new technologies, working with data, and continuously improving my engineering skills.
+### 🏙️ CivicAI
 
-- 🎓 B.E. in Computer Science & Engineering — RV College of Engineering
-- 💻 Interested in Software Engineering, Java Development, and Full-Stack Development
-- ☕ Working with Java, Spring Boot, Python, Flask, React, and SQL
-- 🤖 Exploring Machine Learning, Deep Learning, and AI applications
-- 📊 Interested in Data Analytics, Power BI, and data-driven decision-making
-- 🧪 Familiar with software testing methodologies and quality assurance
-- 🚀 Focused on continuous learning, practical implementation, and writing maintainable code
+**AI-Powered Civic Issue Management**
 
-> **My approach:** Learn the fundamentals, build practical solutions, and continuously improve through experimentation and problem-solving.
+`Java` `Spring Boot` `PostgreSQL`
 
----
+- Civic issue reporting and management
+- REST API-based backend
+- Complaint tracking and database integration
+- Automated email notifications
 
-## Experience
+</td>
 
-### Data Science Intern — Webpoise Technologies
-*September 2025 – December 2025*
+<td width="50%" valign="top">
 
-- Worked on an Event Affordability and Customer Segmentation project to analyze customer behavior and pricing patterns.
-- Applied machine learning algorithms including K-Means Clustering, Logistic Regression, and Decision Trees.
-- Used Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data processing, analysis, and visualization.
-- Developed features such as an Affordability Index to support data-driven insights and analysis.
+### 🧠 ADAS-WSL
 
----
+**Semi-Supervised Image Classification**
 
-## Projects
+`Python` `PyTorch` `ResNet-18`
 
-### 🏙️ CivicAI — Smart Civic Issue Management System
+- Learning from labeled and unlabeled data
+- Pseudo-labeling techniques
+- Noisy-label handling
+- Model evaluation using classification metrics
 
-`Java` `Spring Boot` `REST APIs` `PostgreSQL` `AI/ML`
+</td>
+</tr>
 
-- Developed an application for identifying and managing civic issues such as potholes, road damage, and electrical faults.
-- Built backend services using Spring Boot and REST APIs with PostgreSQL for complaint management and tracking.
-- Implemented automated complaint generation and email notifications using SMTP.
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 ADAS-WSL — Semi-Supervised Image Classification
+### 🌾 Smart Agriculture
 
-`Python` `PyTorch` `ResNet-18` `Deep Learning`
+**Agricultural Decision Support System**
 
-- Developed an image classification framework using labeled and unlabeled datasets.
-- Implemented pseudo-labeling techniques to improve model learning and address noisy labels.
-- Evaluated model performance using Accuracy, Precision, Recall, and F1-score across CIFAR-10N, CIFAR-100, and SVHN datasets.
+`Python` `Flask` `Machine Learning`
 
-### 🌾 Smart Agriculture Decision Support System
+- Crop recommendation
+- Fertilizer prediction
+- Plant disease detection
+- Random Forest & CNN models
 
-`Python` `Flask` `Scikit-learn` `OpenCV` `Machine Learning`
+</td>
 
-- Developed a system for crop recommendation, fertilizer prediction, and plant disease detection.
-- Implemented Random Forest and CNN models for agricultural predictions.
-- Integrated machine learning models into a Flask web application for interactive predictions.
+<td width="50%" valign="top">
 
-### 🎓 Edusphere — Personalized Learning Platform
+### 🎓 Edusphere
 
-`React.js` `Flask` `Python` `Gemini API` `YouTube Data API`
+**AI-Powered Learning Platform**
 
-- Developed an AI-powered learning platform that generates personalized learning roadmaps.
-- Integrated Gemini API for customized learning recommendations.
-- Connected YouTube Data API to provide relevant learning resources through a React-based interface.
+`React` `Flask` `Gemini API`
 
----
+- Personalized learning roadmaps
+- AI-based recommendations
+- YouTube learning resource integration
+- Interactive frontend
 
-## Technical Skills
-
-### Programming Languages
-`Java` `Python` `C++` `SQL` `JavaScript`
-
-### Backend Development
-`Spring Boot` `Flask` `REST APIs`
-
-### Frontend Development
-`HTML5` `CSS3` `JavaScript` `React.js`
-
-### Databases
-`MySQL` `PostgreSQL`
-
-### AI & Machine Learning
-`Machine Learning` `Deep Learning` `PyTorch` `Scikit-learn` `ResNet-18` `OpenCV`
-
-### Data Analytics
-`Power BI` `DAX` `Power Query` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Excel`
-
-### Software Testing
-`Manual Testing` `Functional Testing` `Regression Testing` `Integration Testing` `Smoke Testing` `Sanity Testing` `Exploratory Testing`
-
-### Testing Methodologies
-`SDLC` `STLC` `Agile` `Scrum` `BVA` `Equivalence Partitioning` `Decision Table Testing`
-
-### Tools & Platforms
-`Git` `GitHub` `Jira` `VS Code` `Eclipse` `Linux`
+</td>
+</tr>
+</table>
 
 ---
 
-## Achievements
+## `04` — Experience
 
-- 🏅 Secured **38th Rank in DCET** (Diploma Common Entrance Test).
-- 🎓 Graduated with **9.47 / 10.00 CGPA** in Diploma in Mechanical Engineering.
-- 💻 Graduated with **8.08 / 10.00 CGPA** in B.E. Computer Science & Engineering.
+### 💼 Data Science Intern
+**Webpoise Technologies**  
+<sub>September 2025 — December 2025</sub>
 
----
-
-## Certifications
-
-- **NPTEL — Project Management** | 2026
-- **NPTEL — Edge Computing** | 2025
-- **NPTEL — Graph Algorithms** | 2024
+- Developed an Event Affordability and Customer Segmentation solution.
+- Applied K-Means, Logistic Regression, and Decision Tree algorithms.
+- Performed data processing and visualization using Python.
+- Created an Affordability Index for analyzing customer affordability.
 
 ---
 
-## GitHub Statistics
+## `05` — Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Somashekara2005&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<table>
+<tr>
+<td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somashekara2005&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+### 🏆 38th Rank
 
-<br><br>
+DCET
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Somashekara2005&theme=tokyo-night&hide_border=true" width="100%" />
+</td>
+<td align="center">
+
+### 🎓 9.47 / 10
+
+Diploma CGPA
+
+</td>
+<td align="center">
+
+### 💻 8.08 / 10
+
+B.E. CGPA
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Connect With Me
+## `06` — Certifications
+
+| Certification | Organization | Year |
+|---|---|---|
+| Project Management | NPTEL | 2026 |
+| Edge Computing | NPTEL | 2025 |
+| Graph Algorithms | NPTEL | 2024 |
+
+---
+
+## `07` — GitHub Activity
 
 <div align="center">
 
-📧 **Email:** [somashekarag83@gmail.com](mailto:somashekarag83@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=Somashekara2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 
-💼 **LinkedIn:** [Somashekara G](https://www.linkedin.com/in/somashekara-g-566050323/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somashekara2005&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-💻 **GitHub:** [Somashekara2005](https://github.com/Somashekara2005)
+<br><br>
 
-📍 **Bengaluru, Karnataka, India**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Somashekara2005&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-<br>
+</div>
 
-*"First, solve the problem. Then, write the code."*
+---
+
+<div align="center">
+
+### Let's Build Something.
+
+<a href="mailto:somashekarag83@gmail.com">Contact Me</a> •
+<a href="https://linkedin.com/in/somashekara-g-566050323/">LinkedIn</a> •
+<a href="https://github.com/Somashekara2005">GitHub</a>
+
+<sub>Building • Learning • Improving</sub>
 
 </div>
