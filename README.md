@@ -1,224 +1,169 @@
 
+<!-- ===================== HERO ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,50:0F172A,100:0369A1&text=Somashekara%20G&fontColor=E2E8F0&fontSize=50&fontAlignY=42&desc=Building%20ideas%20into%20software&descSize=18&descAlignY=62&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,100:0EA5E9&height=230&section=header&text=Somashekara%20G&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20JAVA%20%7C%20AI%20%7C%20FULL%20STACK&descSize=17&descAlignY=58&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Software+Engineer;Java+%26+Spring+Boot+Developer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=750&height=55&lines=Building+software+that+solves+problems;Java+%7C+Spring+Boot+%7C+Full+Stack;AI+%26+Machine+Learning+Explorer;Turning+Ideas+Into+Reality;Code.+Learn.+Build.+Repeat." alt="Typing Animation" />
 </a>
 
 <br>
 
 <a href="mailto:somashekarag83@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LET'S_CONNECT-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/somashekara-g-566050323/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Somashekara2005">
-<img src="https://img.shields.io/badge/GitHub-Follow-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<code>Computer Science Graduate</code> • <code>RV College of Engineering</code> • <code>Bengaluru, India</code>
+<img src="https://img.shields.io/badge/🎓_Computer_Science_Graduate-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/📍_Bengaluru,_India-1E293B?style=flat-square" />
+<img src="https://img.shields.io/badge/🏫_RVCE-1E293B?style=flat-square" />
+
+</div>
+
+<br>
+
+<!-- ===================== ABOUT ===================== -->
+
+<div align="center">
+
+# `01` — About Me
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hey, I'm Somashekara 👋
+
+A Computer Science graduate passionate about building applications, exploring intelligent systems, and solving real-world problems through technology.
+
+I enjoy working across **software engineering, backend development, AI/ML, and data analytics** — turning concepts into practical projects and continuously strengthening my engineering skills.
+
+- 💻 Software Development & Problem Solving
+- ☕ Java & Spring Boot Development
+- 🌐 Full Stack Application Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics & Visualization
+- 🧪 Software Quality & Testing
+
+<br>
+
+**Currently focused on:** Strengthening Java, backend development, and building practical software projects.
+
+</td>
+
+<td width="40%" valign="middle">
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,postgres,git&perline=3" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Somashekara2005&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&hide_title=true&include_all_commits=true" width="100%" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<div align="center">
+
+# `02` — Tech Arsenal
+
+<sub>Technologies I work with and continue to explore</sub>
+
+<br><br>
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js&theme=dark" />
+
+<br>
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+<br>
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=spring,flask,mysql,postgres&theme=dark" />
+
+<br>
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
+
+<br>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,bash&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Category | Technologies |
+|:---|:---|
+| **Programming** | Java, Python, C++, JavaScript, SQL |
+| **Backend** | Spring Boot, Flask, REST APIs |
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **Databases** | MySQL, PostgreSQL |
+| **Machine Learning** | Scikit-learn, PyTorch, OpenCV |
+| **Data Analytics** | Power BI, DAX, Power Query, Pandas, NumPy, Excel |
+| **Visualization** | Matplotlib, Seaborn |
+| **Testing** | Manual, Functional, Regression, Integration, Smoke, Sanity, Exploratory |
+| **Methodologies** | SDLC, STLC, Agile, Scrum, BVA, Equivalence Partitioning, Decision Tables |
+| **Tools** | Git, GitHub, Jira, VS Code, Eclipse, Linux |
 
 </div>
 
 ---
 
-<div align="center">
-
-## &lt; About Me /&gt;
-
-</div>
-
-```yaml
-name: Somashekara G
-role: Software Engineer
-education: B.E. Computer Science & Engineering
-college: RV College of Engineering
-location: Bengaluru, India
-
-interests:
-  - Software Development
-  - Java & Spring Boot
-  - Full Stack Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Analytics
-
-currently:
-  - Strengthening Java fundamentals
-  - Exploring backend development
-  - Building practical projects
-```
-
-I'm a Computer Science Engineering graduate passionate about building practical software solutions, exploring emerging technologies, and solving real-world problems through code.
-
-I enjoy working across software development, machine learning, data analytics, and software quality, while continuously improving my technical skills.
+<!-- ===================== EXPERIENCE ===================== -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,postgres,git&theme=dark" />
+# `03` — Experience
 
 </div>
 
----
-
-<div align="center">
-
-## &lt; Tech Stack /&gt;
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&width=100%" />
-
-</div>
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,flask,mysql,postgres" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
-</p>
-
-**Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-
-### Data & Analytics
-
-`Power BI` `DAX` `Power Query` `Excel` `Data Analysis` `Data Visualization`
-
-### Testing & Tools
-
-`Manual Testing` `Functional Testing` `Regression Testing` `Integration Testing` `Smoke Testing` `Sanity Testing` `Exploratory Testing`
-
-`SDLC` `STLC` `Agile` `Scrum` `BVA` `Equivalence Partitioning` `Decision Tables`
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,bash" />
-</p>
-
----
-
-<div align="center">
-
-## &lt; Experience /&gt;
-
-</div>
+<table>
+<tr>
+<td width="100%">
 
 ### 💼 Data Science Intern
 
 **Webpoise Technologies**  
-`September 2025 – December 2025`
+<code>SEP 2025 — DEC 2025</code>
 
-- Developed an Event Affordability and Customer Segmentation solution to analyze customer behavior and pricing strategies.
-- Applied machine learning algorithms including K-Means Clustering, Logistic Regression, and Decision Trees.
-- Performed data processing, exploratory analysis, and visualization using Python libraries.
-- Engineered an Affordability Index to support customer affordability analysis and business insights.
+<br>
 
----
-
-<div align="center">
-
-## &lt; Featured Projects /&gt;
-
-*Selected projects showcasing software development, AI, and problem-solving.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🏙️ CivicAI</h3>
-
-<b>AI-Powered Smart Civic Issue Management System</b>
-
-<br><br>
-
-<code>Java</code> <code>Spring Boot</code> <code>REST API</code> <code>PostgreSQL</code>
-
-<br><br>
-
-- Built a system for managing civic issues such as potholes, road damage, and electrical faults.
-- Developed backend services using Spring Boot and REST APIs.
-- Integrated PostgreSQL for complaint storage and tracking.
-- Implemented automated complaint generation and email notifications using SMTP.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🧠 ADAS-WSL</h3>
-
-<b>Semi-Supervised Image Classification</b>
-
-<br><br>
-
-<code>Python</code> <code>PyTorch</code> <code>ResNet-18</code>
-
-<br><br>
-
-- Developed an image classification framework using labeled and unlabeled datasets.
-- Implemented pseudo-labeling techniques for model learning.
-- Worked with noisy labels across benchmark datasets.
-- Evaluated models using Accuracy, Precision, Recall, and F1-score.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🌾 Smart Agriculture</h3>
-
-<b>Agricultural Decision Support System</b>
-
-<br><br>
-
-<code>Python</code> <code>Flask</code> <code>Machine Learning</code> <code>CNN</code>
-
-<br><br>
-
-- Developed crop recommendation and fertilizer prediction features.
-- Implemented plant disease detection using machine learning.
-- Applied Random Forest and CNN models.
-- Integrated predictions into a Flask web application.
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🎓 Edusphere</h3>
-
-<b>AI-Powered Personalized Learning Platform</b>
-
-<br><br>
-
-<code>React</code> <code>Flask</code> <code>Gemini API</code>
-
-<br><br>
-
-- Developed a platform that generates personalized learning roadmaps.
-- Integrated Gemini API for AI-powered recommendations.
-- Connected YouTube Data API for educational resources.
-- Built an interactive frontend using React.
+- Developed an **Event Affordability & Customer Segmentation** solution to analyze customer behavior and pricing patterns.
+- Applied **K-Means Clustering, Logistic Regression, and Decision Trees** for analysis and prediction.
+- Performed data preprocessing, analysis, and visualization using **Python, Pandas, NumPy, Matplotlib, and Seaborn**.
+- Engineered an **Affordability Index** to support business insights and customer affordability analysis.
 
 </td>
 </tr>
@@ -226,48 +171,190 @@ I enjoy working across software development, machine learning, data analytics, a
 
 ---
 
+<!-- ===================== PROJECTS ===================== -->
+
 <div align="center">
 
-## &lt; Achievements /&gt;
+# `04` — Featured Projects
+
+<sub>Things I've built, explored, and learned from</sub>
 
 </div>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-<h2>🏆 38th</h2>
+<div align="center">
 
-<b>DCET Rank</b>
+### 🏙️ CivicAI
+
+<sub>SMART CIVIC ISSUE MANAGEMENT</sub>
+
+</div>
+
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+<br><br>
+
+A system designed to manage civic issues such as potholes, road damage, and electrical faults.
+
+- Spring Boot backend and REST APIs
+- Complaint management and tracking
+- PostgreSQL database integration
+- Automated complaint generation
+- Email forwarding using SMTP
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-<h2>🎓 9.47</h2>
+<div align="center">
 
-<b>Diploma CGPA / 10</b>
+### 🧠 ADAS-WSL
+
+<sub>SEMI-SUPERVISED IMAGE CLASSIFICATION</sub>
+
+</div>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/RESNET--18-8B5CF6?style=flat-square" />
+
+<br><br>
+
+A framework for image classification using labeled and unlabeled data.
+
+- Semi-supervised learning
+- Pseudo-labeling techniques
+- Handling noisy labels
+- CIFAR-10N, CIFAR-100 & SVHN
+- Accuracy, Precision, Recall & F1
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🌾 Smart Agriculture
+
+<sub>AGRICULTURAL DECISION SUPPORT</sub>
+
+</div>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/ML-10B981?style=flat-square" />
+
+<br><br>
+
+An application that assists with agricultural decisions using machine learning.
+
+- Crop recommendation
+- Fertilizer prediction
+- Plant disease detection
+- Random Forest & CNN
+- Flask application for predictions
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-<h2>💻 8.08</h2>
+<div align="center">
 
-<b>B.E. CGPA / 10</b>
+### 🎓 Edusphere
+
+<sub>AI-POWERED LEARNING PLATFORM</sub>
+
+</div>
+
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/GEMINI_AI-8B5CF6?style=flat-square" />
+
+<br><br>
+
+An AI-powered platform for personalized learning and skill development.
+
+- Personalized skill roadmaps
+- Gemini API integration
+- YouTube Data API integration
+- React frontend
+- Flask backend
 
 </td>
 </tr>
 </table>
+
+---
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+<div align="center">
+
+# `05` — Achievements
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/DCET-ACHIEVEMENT-8B5CF6?style=for-the-badge" />
+
+<br><br>
+
+# 🏆 38th
+
+**DCET Rank**
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/DIPLOMA-ACADEMIC-0EA5E9?style=for-the-badge" />
+
+<br><br>
+
+# 🎓 9.47
+
+**CGPA / 10**
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/ENGINEERING-ACADEMIC-10B981?style=for-the-badge" />
+
+<br><br>
+
+# 💻 8.08
+
+**CGPA / 10**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 - **Diploma:** Mechanical Engineering — SJ Government Polytechnic, Bengaluru.
-- **Bachelor's Degree:** Computer Science & Engineering — RV College of Engineering, Bengaluru.
+- **Bachelor's:** Computer Science & Engineering — RV College of Engineering, Bengaluru.
 
 ---
 
+<!-- ===================== CERTIFICATIONS ===================== -->
+
 <div align="center">
 
-## &lt; Certifications /&gt;
+# `06` — Certifications
 
 </div>
 
@@ -276,64 +363,70 @@ I enjoy working across software development, machine learning, data analytics, a
 <td>🏅</td>
 <td><b>Project Management</b></td>
 <td>NPTEL</td>
-<td>2026</td>
+<td><code>2026</code></td>
 </tr>
-
 <tr>
 <td>🏅</td>
 <td><b>Edge Computing</b></td>
 <td>NPTEL</td>
-<td>2025</td>
+<td><code>2025</code></td>
 </tr>
-
 <tr>
 <td>🏅</td>
 <td><b>Graph Algorithms</b></td>
 <td>NPTEL</td>
-<td>2024</td>
+<td><code>2024</code></td>
 </tr>
 </table>
 
 ---
 
+<!-- ===================== GITHUB ===================== -->
+
 <div align="center">
 
-## &lt; GitHub Analytics /&gt;
+# `07` — GitHub Dashboard
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Somashekara2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Somashekara2005&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&include_all_commits=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somashekara2005&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somashekara2005&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" height="170" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Somashekara2005&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Somashekara2005&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
+<!-- ===================== CONTACT ===================== -->
+
 <div align="center">
 
-## &lt; Let's Connect /&gt;
+# `08` — Let's Connect
+
+<br>
 
 <a href="mailto:somashekarag83@gmail.com">
-<img src="https://img.shields.io/badge/Email-somashekarag83%40gmail.com-38BDF8?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/somashekara-g-566050323/">
-<img src="https://img.shields.io/badge/LinkedIn-Somashekara%20G-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/Somashekara2005">
-<img src="https://img.shields.io/badge/GitHub-Somashekara2005-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,100:020617&height=100&section=footer" width="100%" />
+<sub>💡 Building things. Solving problems. Learning every day.</sub>
 
-<sub>Building • Learning • Improving</sub>
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:020617&height=120&section=footer" />
 
 </div>
