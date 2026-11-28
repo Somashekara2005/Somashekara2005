@@ -135,8 +135,6 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 
 </div>
 
----
-
 <!-- ===================== EXPERIENCE ===================== -->
 
 <div align="center">
@@ -163,79 +161,44 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 
 </td>
 </tr>
-</table>
 
----
-
-<!-- ===================== PROJECTS ===================== -->
-
-<div align="center">
-
-# `04` — Featured Projects
-
-<sub>Things I've built, explored, and learned from</sub>
-
-</div>
-
-<table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-<div align="center">
+### 📊 Data Analytics Trainee
 
-### 🏙️ CivicAI
+**Complete Data Analyst Bootcamp — Udemy**  
+<code>AUG 2026 — NOV 2026</code>  
+<sub>Online</sub>
 
-<sub>SMART CIVIC ISSUE MANAGEMENT</sub>
+<br>
 
-</div>
-
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
-<br><br>
-
-A system designed to manage civic issues such as potholes, road damage, and electrical faults.
-
-- Spring Boot backend and REST APIs
-- Complaint management and tracking
-- PostgreSQL database integration
-- Automated complaint generation
-- Email forwarding using SMTP
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🧠 ADAS-WSL
-
-<sub>SEMI-SUPERVISED IMAGE CLASSIFICATION</sub>
-
-</div>
-
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/RESNET--18-8B5CF6?style=flat-square" />
-
-<br><br>
-
-A framework for image classification using labeled and unlabeled data.
-
-- Semi-supervised learning
-- Pseudo-labeling techniques
-- Handling noisy labels
-- CIFAR-10N, CIFAR-100 & SVHN
-- Accuracy, Precision, Recall & F1
+- Learning Python for data analysis using **Pandas, NumPy, Matplotlib, and Seaborn**, along with statistics and data preprocessing.
+- Practicing **SQL queries, ETL pipelines, and data transformation** to retrieve, clean, and process datasets.
+- Exploring **Snowflake, Power BI, DAX, dashboard development, and data visualization** through practical projects.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-<div align="center">
+### ☕ Advanced Java Development Trainee
+
+**Anudip Foundation**  
+<code>NOV 2026 — PRESENT</code>  
+<sub>Bengaluru, India</sub>
+
+<br>
+
+- Currently undertaking **Advanced Java Development training** with AI-assisted software development practices.
+- Learning **Java, Object-Oriented Programming (OOP), JDBC, and Hibernate**.
+- Developing backend application skills using **Spring Boot and SQL**.
+
+</td>
+</tr>
+</table>
+
 
 ### 🌾 Smart Agriculture
 
