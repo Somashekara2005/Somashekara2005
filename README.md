@@ -1,5 +1,4 @@
-
-<!-- ===================== HERO ===================== -->
+# 👋 Somashekara G | Software Engineer
 
 <div align="center">
 
@@ -31,7 +30,7 @@
 
 <br>
 
-<!-- ===================== ABOUT ===================== -->
+---
 
 <div align="center">
 
@@ -47,7 +46,7 @@
 
 A Computer Science graduate passionate about building applications, exploring intelligent systems, and solving real-world problems through technology.
 
-I enjoy working across **software engineering, backend development, AI/ML, and data analytics** — turning concepts into practical projects and continuously strengthening my engineering skills.
+I enjoy working across **software engineering, backend development, AI/ML, and data analytics**, turning ideas into practical solutions while continuously improving my technical skills.
 
 - 💻 Software Development & Problem Solving
 - ☕ Java & Spring Boot Development
@@ -58,7 +57,7 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 
 <br>
 
-**Currently focused on:** Strengthening Java, backend development, and building practical software projects.
+**Currently focused on:** Advanced Java, backend development, data analytics, and building practical software applications.
 
 </td>
 
@@ -76,8 +75,6 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-
 <div align="center">
 
 # `02` — Tech Arsenal
@@ -86,19 +83,19 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 
 <br><br>
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js&theme=dark" />
 
 <br>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
 <br>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=spring,flask,mysql,postgres&theme=dark" />
 
@@ -125,21 +122,22 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 | **Programming** | Java, Python, C++, JavaScript, SQL |
 | **Backend** | Spring Boot, Flask, REST APIs |
 | **Frontend** | HTML, CSS, JavaScript, React |
-| **Databases** | MySQL, PostgreSQL |
+| **Databases** | MySQL, PostgreSQL, Snowflake |
 | **Machine Learning** | Scikit-learn, PyTorch, OpenCV |
 | **Data Analytics** | Power BI, DAX, Power Query, Pandas, NumPy, Excel |
 | **Visualization** | Matplotlib, Seaborn |
+| **Data Engineering** | ETL, Data Transformation, Data Processing, Data Pipelines |
 | **Testing** | Manual, Functional, Regression, Integration, Smoke, Sanity, Exploratory |
 | **Methodologies** | SDLC, STLC, Agile, Scrum, BVA, Equivalence Partitioning, Decision Tables |
 | **Tools** | Git, GitHub, Jira, VS Code, Eclipse, Linux |
 
 </div>
 
-<!-- ===================== EXPERIENCE ===================== -->
+---
 
 <div align="center">
 
-# `03` — Experience
+# `03` — Experience & Professional Development
 
 </div>
 
@@ -149,7 +147,8 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 
 ### 💼 Data Science Intern
 
-**Webpoise Technologies**  
+**Webpoise Technologies**
+
 <code>SEP 2025 — DEC 2025</code>
 
 <br>
@@ -167,9 +166,11 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 
 ### 📊 Data Analytics Trainee
 
-**Complete Data Analyst Bootcamp — Udemy**  
-<code>AUG 2026 — NOV 2026</code>  
-<sub>Online</sub>
+**Complete Data Analyst Bootcamp — Udemy**
+
+<code>AUG 2026 — NOV 2026</code>
+
+<sub>Online Training</sub>
 
 <br>
 
@@ -185,8 +186,10 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 
 ### ☕ Advanced Java Development Trainee
 
-**Anudip Foundation**  
-<code>NOV 2026 — PRESENT</code>  
+**Anudip Foundation**
+
+<code>NOV 2026 — PRESENT</code>
+
 <sub>Bengaluru, India</sub>
 
 <br>
@@ -199,6 +202,75 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 </tr>
 </table>
 
+---
+
+<div align="center">
+
+# `04` — Featured Projects
+
+<sub>Things I've built, explored, and learned from</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏙️ CivicAI
+
+<sub>SMART CIVIC ISSUE MANAGEMENT</sub>
+
+</div>
+
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+<br><br>
+
+A system designed to manage civic issues such as potholes, road damage, and electrical faults.
+
+- Spring Boot backend and REST APIs
+- Complaint management and tracking
+- PostgreSQL database integration
+- Automated complaint generation
+- Email forwarding using SMTP
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧠 ADAS-WSL
+
+<sub>SEMI-SUPERVISED IMAGE CLASSIFICATION</sub>
+
+</div>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/RESNET--18-8B5CF6?style=flat-square" />
+
+<br><br>
+
+A framework for image classification using labeled and unlabeled data.
+
+- Semi-supervised learning
+- Adaptive pseudo-labeling techniques
+- Handling noisy labels
+- CIFAR-10N, CIFAR-100 & SVHN datasets
+- Accuracy, Precision, Recall & F1 evaluation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 🌾 Smart Agriculture
 
@@ -208,7 +280,7 @@ I enjoy working across **software engineering, backend development, AI/ML, and d
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FLASK-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/ML-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-10B981?style=flat-square" />
 
 <br><br>
 
@@ -217,7 +289,7 @@ An application that assists with agricultural decisions using machine learning.
 - Crop recommendation
 - Fertilizer prediction
 - Plant disease detection
-- Random Forest & CNN
+- Random Forest & CNN models
 - Flask application for predictions
 
 </td>
@@ -238,21 +310,19 @@ An application that assists with agricultural decisions using machine learning.
 
 <br><br>
 
-An AI-powered platform for personalized learning and skill development.
+An AI-powered learning platform designed to create personalized skill development roadmaps.
 
-- Personalized skill roadmaps
+- Personalized learning roadmaps
 - Gemini API integration
 - YouTube Data API integration
-- React frontend
-- Flask backend
+- Curated learning resources
+- React frontend and Flask backend
 
 </td>
 </tr>
 </table>
 
 ---
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
 
 <div align="center">
 
@@ -305,11 +375,9 @@ An AI-powered platform for personalized learning and skill development.
 <br>
 
 - **Diploma:** Mechanical Engineering — SJ Government Polytechnic, Bengaluru.
-- **Bachelor's:** Computer Science & Engineering — RV College of Engineering, Bengaluru.
+- **Bachelor's:** Computer Science & Engineering — R. V. College of Engineering, Bengaluru.
 
 ---
-
-<!-- ===================== CERTIFICATIONS ===================== -->
 
 <div align="center">
 
@@ -340,8 +408,6 @@ An AI-powered platform for personalized learning and skill development.
 
 ---
 
-<!-- ===================== GITHUB ===================== -->
-
 <div align="center">
 
 # `07` — GitHub Dashboard
@@ -356,11 +422,13 @@ An AI-powered platform for personalized learning and skill development.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somashekara2005&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Somashekara2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+
 </div>
 
 ---
-
-<!-- ===================== CONTACT ===================== -->
 
 <div align="center">
 
